@@ -72,9 +72,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: "Fall in love with technology with a special friend" },
+  { year: 2017, text: "Fall in love in technology with a special friend" },
   { year: 2018, text: "Start to learn content more" },
-  { year: 2019, text: "Borad exam but still try to learn and build" },
-  { year: 2020, text: "India Lockdown makes me smarter 😎" },
+  { year: 2019, text: "Board exam but still try to learn and build" },
+  { year: 2020, text: "India Lockdown makes me smart 😎" },
   { year: 2021, text: "Started my own era" },
 ];
