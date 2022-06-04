@@ -77,4 +77,5 @@ export const TimeLineData = [
   { year: 2019, text: "Board exam but still try to learn and build" },
   { year: 2020, text: "India Lockdown makes me smart 😎" },
   { year: 2021, text: "Started my own era" },
+  {year:2022 , text: "teads to micro-service architecture"}
 ];
