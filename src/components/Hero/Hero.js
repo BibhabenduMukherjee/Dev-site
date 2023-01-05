@@ -15,7 +15,7 @@ const Hero = (props) => (
       <LeftSection>
         <SectionTitle main center>
           Welcome To <br />
-          My Personal Portfolio @2022
+          My Personal Portfolio @2023
         </SectionTitle>
         <SectionText>
           You are here happy to see you ! on a mission to making a path that
